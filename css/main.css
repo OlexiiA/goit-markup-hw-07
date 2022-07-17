@@ -1024,7 +1024,7 @@ hr {
   border-color: var(--accent-color);
 }
 
-.link__icon {
+.clients__link {
   fill: var(--fill-color);
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1044,7 +1044,7 @@ hr {
   -webkit-transition-timing-function: var(--time-allocation);
           transition-timing-function: var(--time-allocation);
 }
-.link__icon:hover, .link__icon:focus {
+.clients__link:hover, .clients__link:focus {
   fill: var(--accent-color);
 }
 
